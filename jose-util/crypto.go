@@ -54,6 +54,7 @@ var allSignatureAlgorithms = []jose.SignatureAlgorithm{
 	jose.RS384,
 	jose.RS512,
 	jose.ES256,
+	jose.ES256K,
 	jose.ES384,
 	jose.ES512,
 	jose.PS256,
